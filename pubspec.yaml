@@ -1,8 +1,8 @@
 name: sms_signature_helper
 description: Plugin to generate signature for api sms retriever.
 version: 0.0.1
-author:
-homepage:
+author: Lucas Andrade <lap.andrade15@gmail.com>
+homepage: https://github.com/Lucas15andrade/sms_signature_helper
 
 environment:
   sdk: ">=2.7.0 <3.0.0"
